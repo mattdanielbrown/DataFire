@@ -44,6 +44,6 @@
     "chai": "^3.5.0",
     "mocha": "^7.1.2",
     "request-promise": "^4.2.5",
-    "swagger-parser": "^3.4.2"
+    "swagger-parser": "^9.0.0"
   }
 }
