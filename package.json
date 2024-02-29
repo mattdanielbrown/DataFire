@@ -33,7 +33,7 @@
     "request": "^2.88.2",
     "request-debug": "^0.2.0",
     "rss-parser": "^2.12.1",
-    "swagger-express-middleware": "^4.0.0",
+    "swagger-express-middleware": "^4.0.2",
     "yamljs": "^0.2.9",
     "yargs": "^15.3.1"
   },
